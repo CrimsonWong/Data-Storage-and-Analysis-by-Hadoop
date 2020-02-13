@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="185b5998-d492-43fc-9b98-28c922730d6f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ULT8uSipQ0fuQvb2t77mySUkn9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="CommentMR" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AddHBase">
+    <configuration name="AddHBase" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="HBase.ImportJob" />
+      <module name="FinalProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Join" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MRJoin.JoinJob" />
+      <module name="FinalProject" />
+      <option name="PROGRAM_PARAMETERS" value="hdfs://localhost:9000/FinalProject hdfs://localhost:9000/output" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RatingPartitioner" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MRCommentRecipe.RecipeIDJob" />
+      <module name="FinalProject" />
+      <option name="PROGRAM_PARAMETERS" value="hdfs://localhost:9000/FinalProject/comments.csv hdfs://localhost:9000/output" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecipeID" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MRCommentRecipe.RecipeIDJob" />
+      <module name="FinalProject" />
+      <option name="PROGRAM_PARAMETERS" value="hdfs://localhost:9000/FinalProject/comments.csv hdfs://localhost:9000/output" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserID" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MRCommentUser.UserIDJob" />
+      <module name="FinalProject" />
+      <option name="PROGRAM_PARAMETERS" value="hdfs://localhost:9000/FinalProject/comments.csv hdfs://localhost:9000/output" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.UserID" />
+      <item itemvalue="Application.RatingPartitioner" />
+      <item itemvalue="Application.RecipeID" />
+      <item itemvalue="Application.Join" />
+      <item itemvalue="Application.AddHBase" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="185b5998-d492-43fc-9b98-28c922730d6f" name="Default Changelist" comment="" />
+      <created>1575134719397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575134719397</updated>
+      <workItem from="1575134721956" duration="78000" />
+      <workItem from="1575134852163" duration="56000" />
+      <workItem from="1575134920104" duration="3198000" />
+      <workItem from="1575317984384" duration="75287000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Project_Structure" timestamp="1575744650046">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1575744650046" />
+    <state x="230" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576027559952">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="230" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1576027559952" />
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1576027301370">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1576027301370" />
+    <state x="408" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575134900415">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="408" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900@0.0.1440.900" timestamp="1575134900415" />
+    <state x="405" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1575649666602">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="405" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1575649666602" />
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom" timestamp="1576107818206">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1576107818206" />
+    <state width="1398" height="206" key="GridCell.Tab.0.center" timestamp="1576107818204">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1576107818204" />
+    <state width="1398" height="206" key="GridCell.Tab.0.left" timestamp="1576107818204">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1576107818204" />
+    <state width="1398" height="206" key="GridCell.Tab.0.right" timestamp="1576107818206">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1576107818206" />
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog" timestamp="1576024168499">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1576024168499" />
+    <state x="220" y="88" key="SettingsEditor" timestamp="1575176837036">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="220" y="88" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1575176837036" />
+    <state x="378" y="93" width="683" height="714" key="find.popup" timestamp="1575998834022">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="378" y="93" width="683" height="714" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1575998834022" />
+  </component>
+</project>
