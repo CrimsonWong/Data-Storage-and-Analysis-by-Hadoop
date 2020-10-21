@@ -1,5 +1,5 @@
-# HadoopMRFinalProject
-This is my Final Project of INFO 7250 Big Data. 
+# Data storage and analysis in a restaurant recommendation system 
+This is my Final Project of INFO 7250 Big Data. This project is used in a restaurant recommendation system. 
 
 In my project, I plan to use the datasets from food.com that includes comments and recipes. In the comments part, there are about 350MB size of comments from different users on different recipes, and in the recipes part, there are about 300MB size of recipes details, including the user’s information who post it, the ingredients of a recipe, the description of a recipe and the steps to cook it. 
 
